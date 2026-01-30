@@ -1,0 +1,14 @@
+{
+  "plugins": [
+    {
+      "name": "weather-briefing",
+      "displayName": "Weather Briefing",
+      "description": "Morning weather briefings via OpenWeatherMap with configurable city and units",
+      "author": "pearintelligence",
+      "icon": "cloud.sun.fill",
+      "version": "1.0.0",
+      "repoUrl": "https://github.com/pear-intelligence/plugin-weather-briefing",
+      "tags": ["weather", "notifications", "daily"]
+    }
+  ]
+}
