@@ -9,6 +9,16 @@
       "version": "1.0.0",
       "repoUrl": "https://github.com/pear-intelligence/plugin-weather-briefing",
       "tags": ["weather", "notifications", "daily"]
+    },
+    {
+      "name": "fitness-tracker",
+      "displayName": "Fitness Tracker",
+      "description": "Sync and track fitness data from Garmin Connect and Strava. View activities, stats, and trends.",
+      "author": "pearintelligence",
+      "icon": "figure.run",
+      "version": "1.0.0",
+      "repoUrl": "https://github.com/pear-intelligence/plugin-fitness-tracker",
+      "tags": ["fitness", "health", "garmin", "strava", "tracking"]
     }
   ]
 }
