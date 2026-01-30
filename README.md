@@ -7,6 +7,7 @@ The official marketplace registry for [Pear Intelligence](https://github.com/pea
 | Plugin | Description | Author |
 |--------|-------------|--------|
 | [weather-briefing](https://github.com/pear-intelligence/plugin-weather-briefing) | Morning weather briefings via OpenWeatherMap | pearintelligence |
+| [fitness-tracker](https://github.com/pear-intelligence/plugin-fitness-tracker) | Sync and track fitness data from Garmin Connect and Strava | pearintelligence |
 
 ## Installing Plugins
 
@@ -79,13 +80,24 @@ Open a PR against `main`. We'll review that your plugin:
   },
   "hotReloadable": true,
   "settings": [
-    { "key": "apiKey", "label": "API Key", "type": "secret", "default": "" }
+    { "key": "apiKey", "label": "API Key", "type": "secret", "default": "" },
+    { 
+      "key": "oauth_setup", 
+      "label": "Connect Account", 
+      "type": "link", 
+      "default": "",
+      "url": "/px/my-plugin/oauth/setup",
+      "buttonText": "Open Setup Page"
+    }
   ],
   "dependencies": []
 }
 ```
 
-**Setting types:** `string`, `secret`, `number`, `boolean`, `select`
+**Setting types:** `string`, `secret`, `number`, `boolean`, `select`, `link`
+
+**New in v1.1:**
+- `link` - Clickable button that opens a URL (requires `url` and optional `buttonText` fields)
 
 **Icon:** Any valid [SF Symbol](https://developer.apple.com/sf-symbols/) name
 
