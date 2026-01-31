@@ -27,7 +27,8 @@
       "author": "pearintelligence",
       "icon": "chart.line.uptrend.xyaxis",
       "version": "1.0.0",
-      "repoUrl": "https://github.com/pear-intelligence/plugin-stock-data",
+      "repoUrl": "https://github.com/pear-intelligence/plugin-registry",
+      "path": "plugins/stock-data",
       "tags": ["stocks", "finance", "market", "ETF", "investing"]
     }
   ]
