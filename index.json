@@ -19,6 +19,16 @@
       "version": "1.0.0",
       "repoUrl": "https://github.com/pear-intelligence/plugin-fitness-tracker",
       "tags": ["fitness", "health", "garmin", "strava", "tracking"]
+    },
+    {
+      "name": "stock-data",
+      "displayName": "Stock Data",
+      "description": "Live stock quotes, ETF data, company profiles, historical candles, and market news via Finnhub",
+      "author": "pearintelligence",
+      "icon": "chart.line.uptrend.xyaxis",
+      "version": "1.0.0",
+      "repoUrl": "https://github.com/pear-intelligence/plugin-stock-data",
+      "tags": ["stocks", "finance", "market", "ETF", "investing"]
     }
   ]
 }
