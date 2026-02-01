@@ -9,6 +9,7 @@ The official marketplace registry for [Pear Intelligence](https://github.com/pea
 | [weather-briefing](https://github.com/pear-intelligence/plugin-weather-briefing) | Morning weather briefings via OpenWeatherMap | pearintelligence |
 | [fitness-tracker](https://github.com/pear-intelligence/plugin-fitness-tracker) | Sync and track fitness data from Garmin Connect and Strava | pearintelligence |
 | [stock-data](https://github.com/pear-intelligence/plugin-stock-data) | Live stock quotes, ETF data, company profiles, candles, and market news via Finnhub | pearintelligence |
+| [alpaca-trading](https://github.com/pear-intelligence/plugin-alpaca-trading) | Trade stocks, crypto, and options via Alpaca with paper and live trading modes | pearintelligence |
 
 ## Installing Plugins
 

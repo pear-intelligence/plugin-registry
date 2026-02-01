@@ -29,6 +29,16 @@
       "version": "1.0.0",
       "repoUrl": "https://github.com/pear-intelligence/plugin-stock-data",
       "tags": ["stocks", "finance", "market", "ETF", "investing"]
+    },
+    {
+      "name": "alpaca-trading",
+      "displayName": "Alpaca Trading",
+      "description": "Trade stocks, crypto, and options via Alpaca with paper and live trading modes. Portfolio management, market data, and order execution.",
+      "author": "pearintelligence",
+      "icon": "chart.bar.xaxis.ascending",
+      "version": "1.0.0",
+      "repoUrl": "https://github.com/pear-intelligence/plugin-alpaca-trading",
+      "tags": ["trading", "stocks", "crypto", "alpaca", "finance", "brokerage"]
     }
   ]
 }
