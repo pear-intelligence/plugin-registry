@@ -49,6 +49,16 @@
       "version": "1.0.0",
       "repoUrl": "https://github.com/pear-intelligence/plugin-pearbot",
       "tags": ["builder", "projects", "automation", "scaffolding", "code-generation"]
+    },
+    {
+      "name": "github",
+      "displayName": "GitHub",
+      "description": "Manage GitHub repositories, PRs, issues, CI status, and notifications via gh CLI",
+      "author": "pearintelligence",
+      "icon": "chevron.left.forwardslash.chevron.right",
+      "version": "1.0.0",
+      "repoUrl": "https://github.com/pear-intelligence/plugin-github",
+      "tags": ["github", "git", "devtools", "ci", "pull-requests", "issues"]
     }
   ]
 }
