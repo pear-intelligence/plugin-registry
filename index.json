@@ -59,6 +59,16 @@
       "version": "1.0.0",
       "repoUrl": "https://github.com/pear-intelligence/plugin-github",
       "tags": ["github", "git", "devtools", "ci", "pull-requests", "issues"]
+    },
+    {
+      "name": "saucy-emote",
+      "displayName": "SaucyEmote",
+      "description": "Monitors specified group chats for saucy messages. Reacts with a pear emoji and optionally drops a clever uninvited reply.",
+      "author": "pearintelligence",
+      "icon": "flame.fill",
+      "version": "1.0.0",
+      "repoUrl": "https://github.com/pear-intelligence/plugin-saucy-emote",
+      "tags": ["fun", "reactions", "group-chat", "emotes", "humor"]
     }
   ]
 }
