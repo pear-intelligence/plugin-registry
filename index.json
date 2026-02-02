@@ -69,6 +69,16 @@
       "version": "1.0.0",
       "repoUrl": "https://github.com/pear-intelligence/plugin-saucy-emote",
       "tags": ["fun", "reactions", "group-chat", "emotes", "humor"]
+    },
+    {
+      "name": "globanix",
+      "displayName": "Globanix Intelligence",
+      "description": "Real-time global intelligence from Globanix — live news, critical alerts, disasters, conflicts, trending topics, and article archives from 140+ countries",
+      "author": "pearintelligence",
+      "icon": "globe.americas.fill",
+      "version": "1.0.0",
+      "repoUrl": "https://github.com/pear-intelligence/plugin-globanix",
+      "tags": ["news", "intelligence", "global", "disasters", "conflicts", "breaking-news", "geopolitics"]
     }
   ]
 }
